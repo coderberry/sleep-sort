@@ -6,6 +6,6 @@ describe('sleepsort', function() {
     it('returns an empty array', function() {
       var result = sleepsort();
       result.should.eql([]);
-    })
-  })
-})
+    });
+  });
+});
