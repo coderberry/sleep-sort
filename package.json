@@ -14,5 +14,9 @@
     "url": "git://github.com/cavneb/sleep-sort.git"
   },
   "author": "Eric Berry",
-  "license": "BSD"
+  "license": "BSD",
+  "devDependencies": {
+    "mocha": "~1.8.1",
+    "should": "~1.2.1"
+  }
 }
